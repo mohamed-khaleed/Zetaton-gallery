@@ -65,7 +65,7 @@ To run this project, follow the steps below:
 
 2. **Start the Development Server**:
    npm run dev
-   Note: The project uses Vite for the development server. Make sure you have Vite installed.
+   
 3. **Environment Variables**:
    - The `.env` file containing necessary environment variables will be sent via email for security reasons. Ensure this file is placed in the root directory of your project before running the development server.
 4. **Search Functionality**:
