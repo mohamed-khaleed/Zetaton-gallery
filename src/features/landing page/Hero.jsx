@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Box, Button, Grid, Typography } from '@mui/material';
 import heroImgPath from '../../assets/images/5.jpg';
 import styled from 'styled-components';
