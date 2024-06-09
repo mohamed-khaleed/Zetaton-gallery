@@ -1,0 +1,17 @@
+/*
+  color palette:
+  #f8ffff
+  #12333a
+  #f9fbf6
+  #829da2
+*/
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+   font-family: "Lora", serif;
+  background-color: #f9fbf6;
+   color: #f8ffff;
+}
