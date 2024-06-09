@@ -76,7 +76,8 @@ To run this project, follow the steps below:
      2. Delete the `node_modules` folder.
      3. Run `npm install` again to reinstall the dependencies.
      4. Restart Visual Studio Code and the development server.
-
+5. **SignUp new user**:
+    - make sure to make an email format like (mohamed@gmail.com)
 ## Additional Notes
 
 - Ensure that you have Node.js and npm installed on your machine.
